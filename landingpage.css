@@ -247,3 +247,33 @@ h4{
     width: 90%;
     cursor: pointer;
 }
+
+/* PREGUNTAS FRECUNTES */
+
+.question{
+    color:#030649;
+    text-align: center;
+}
+
+.question__slider{
+    text-align: left;
+    border-radius: 20px;
+
+}
+.question__slider--all{
+    padding: 20px;
+    border: solid black 1px;
+    margin: 30px;
+    position: relative;
+
+}
+
+.question__img{
+    position: absolute;
+    right: 10px;
+}
+.question__parragraf{
+    margin: 20px;
+    font-size: 13px;
+    color: black;
+}
