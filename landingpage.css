@@ -5,7 +5,7 @@
     --color-title: #001a49
 }    
 body{
-    color: aliceblue;
+    color: rgb(24, 99, 165);
     font-family: 'Poppins', sans-serif;
     min-width: 700px;
     
@@ -150,7 +150,7 @@ h4{
 .pay__box{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(351px, auto));
-  gap: 20px;
+gap: 20px;
 
 }
 .box{
@@ -170,7 +170,7 @@ h4{
 }
 .pay__40{
     background-color: rgb(164, 166, 167);
-   
+
 }
 .pay__mayu{
     font-size: 30px;
